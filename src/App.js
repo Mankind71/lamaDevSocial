@@ -7,7 +7,7 @@ function App() {
   // const classes = useStyles();
   return (
     <div className="App">
-      <Profile />
+      <Home />
     </div>
   );
 }
